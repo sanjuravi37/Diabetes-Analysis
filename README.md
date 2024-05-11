@@ -1,6 +1,6 @@
-# HEALTH-CARE
+# Diabetes-Analysis
 
- This is a diabetes prediction using basic html and css.
+Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves
 
 # setup
 
