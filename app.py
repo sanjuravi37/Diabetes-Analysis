@@ -6,7 +6,7 @@ import joblib
 app = Flask(__name__)
 
 # Load the trained model
-model = joblib.load('trained_model1.pkl')
+model = joblib.load('trained_model.pkl')
 
 @app.route('/')
 def home():
